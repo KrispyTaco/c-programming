@@ -1,1 +1,1 @@
-c-programming
+A collection of c projects
