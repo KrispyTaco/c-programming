@@ -1,1 +1,1 @@
-A collection of c projects
+A collection of c projects.
